@@ -1,4 +1,5 @@
 ## Available Studies:
 
-- [John](john.md)
+- [John – The Word Became Flesh](john1.md)
+
 
