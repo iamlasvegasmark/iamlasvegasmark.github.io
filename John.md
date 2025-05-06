@@ -4,14 +4,15 @@ title: Gospel of John
 
 # Study of the Gospel of John ✝️
 
-> _“In the beginning was the Word...”_ — John 1:1
+> _“These are written so that you may believe...”_ — John 20:31
 
-This study explores the Gospel of John — focusing on Jesus' divinity, His relationship with the Father, and what it means to believe.
+This study explores the Gospel of John — chapter by chapter — reflecting on Jesus’ identity, His words, and His works.
 
-## Chapters Covered So Far
+---
 
-- **John 1**: The Word became flesh
-- **John 2**: Wedding at Cana, cleansing the temple
-- **John 3**: Nicodemus and being born again
+## 📖 Chapter Index
 
-*(More chapters and reflections will be added as we go.)*
+- [Chapter 1](john1.md)
+- [Chapter 2](john2.md)
+- [Chapter 3](john3.md)
+- *(More chapters coming soon)*
