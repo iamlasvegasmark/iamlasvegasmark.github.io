@@ -1,3 +1,13 @@
-# Welcome to My Website
+# Welcome to iamlasvegasmark.com 👋
 
-Hello! My name is Mark and this is my personal website — more updates coming soon.
+My name is Mark. I'm a veteran, a follower of Christ, and I call Las Vegas home.
+
+This is my personal site where I share:
+- Bible studies
+- Life updates
+- My favorite resources
+
+Stay tuned — more coming soon!
+
+---
+📬 Contact me: [realmarkjackson@proton.me](mailto:realmarkjackson@proton.me)
