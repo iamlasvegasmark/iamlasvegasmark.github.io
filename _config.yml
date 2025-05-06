@@ -1,0 +1,16 @@
+title: Mark Jackson
+email: realmarkjackson@proton.me
+description: >-
+  Veteran | Follower of Christ | Based in Las Vegas
+
+baseurl: "" # Do not change
+url: "https://iamlasvegasmark.com"
+
+theme: minima
+
+# Navigation Links
+header_pages:
+  - index.md
+  - about.md
+  - studies.md
+  - contact.md
