@@ -1,4 +1,4 @@
-# Welcome to iamlasvegasmark.com 👋
+# Welcome 👋
 
 My name is Mark. I'm a veteran, a follower of Christ, and I call Las Vegas home.
 
